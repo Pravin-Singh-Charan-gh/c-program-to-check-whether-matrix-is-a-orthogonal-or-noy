@@ -1,0 +1,1 @@
+# c-program-to-check-whether-matrix-is-a-orthogonal-or-noy
